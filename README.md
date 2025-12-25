@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Gitisbroke
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate with drake
-- 📫 How to reach me i donno
-- 😄 Pronouns: i/die
-- ⚡ Fun fact: which i don't know
+
 
 <!---
 Gitisbroke/Gitisbroke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
